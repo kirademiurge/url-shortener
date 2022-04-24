@@ -1,6 +1,6 @@
 # url-shortener
 
-fullstack application was developed with express.js and react.js
+fullstack application was developed with MERN (Mongodb, ExpressJS, ReactJS, NodeJS)
 
 ### Contacts
 
